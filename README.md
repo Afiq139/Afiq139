@@ -6,6 +6,8 @@
 - 📫 How to reach me **shafiq5427.engineering@gmail.com**
 
 - ⚡ Fun fact **3D modellings are cool**
+  
+- My Credly: https://www.credly.com/users/muhamad-shafiq-abdul-rahim/badges
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
