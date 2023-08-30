@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **3D modellings are cool**
   
-- My Credly: <a class ="link" href="https://www.credly.com/users/muhamad-shafiq-abdul-rahim/badges" target="_blank">Link &rarr;</a>
+- My <a class ="link" href="https://www.credly.com/users/muhamad-shafiq-abdul-rahim/badges" target="_blank" rel="noreferrer">Credly</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
