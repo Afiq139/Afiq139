@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afiq139&label=Profile%20views&color=0e75b6&style=flat" alt="afiq139" /> </p>
 
-- 📫 How to reach me **shafiq5427.engineering@gmail.com**
+- 📫 How to reach me **https://afiq.pythonanywhere.com/**
 
 - ⚡ Fun fact **3D modellings are cool**
   
